@@ -1,0 +1,6 @@
+A4; Amount: 100; Description: White paper A4; Producer: White — $1
+Cayenne Pepper; Amount: 13; Description: Very hot pepper, for those feeling SPICY.; Producer: Spic — $5
+Dove; Amount: 2; Description: Stunning smell, 250 ml; Producer: Dove — $2
+Ice Cream; Amount: 8; Description: With chocolate!; Producer: Bear — $15
+Skirt; Amount: 15; Description: Black striped mini skirt; Producer: Zara — $30
+Sneakers; Amount: 10; Description: Women`s brown sneakers; Producer: Zara — $50

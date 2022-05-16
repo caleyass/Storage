@@ -1,0 +1,3 @@
+Cayenne Pepper; Amount: 13; Description: Very hot pepper, for those feeling SPICY.; Producer: Spic — $5
+Ice Cream; Amount: 8; Description: With chocolate!; Producer: Bear — $15
+Milk; Amount: 5; Description: Low fat!; Producer: Milky — $12
