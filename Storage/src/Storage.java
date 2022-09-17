@@ -7,8 +7,8 @@ import java.util.stream.Collectors;
 
 public class Storage {
 
-    public static final File STORAGE_PATH = new File("./src/Products");
-    public static final File SRC_PATH = new File("./src");
+    public static final File STORAGE_PATH = new File("./Storage/src/Products");
+    public static final File SRC_PATH = new File("./Storage/src");
     //default group of products
     ProductGroup groceries = new ProductGroup("Groceries", "Water, bread, sugar, etc.");
     ProductGroup nonFood = new ProductGroup("Non-Food", "Clothes, shoes, etc.");
